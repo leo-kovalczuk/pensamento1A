@@ -6,9 +6,12 @@ body{text-align: center;}
 
   p {font-size: 30px}
 
-strong{color: aqua;font-size: 30px}
+  #banner {height: 200px;}
 
-h1{color: aqua;font-size: 40px}
 
-h2{color: aqua;font-size: 40px}
+strong{color: rgb(238, 255, 0);font-size: 30px}
+
+h1{color: rgb(238, 255, 0);font-size: 40px}
+
+h2{color: rgb(238, 255, 0);font-size: 40px}
  
